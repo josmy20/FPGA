@@ -1,0 +1,93 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/16.1
+Etrafficlights
+Z0 w1728249277
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dC:/Projects/VHDL/Traffic Lights
+Z5 8C:/Projects/VHDL/Traffic Lights/TrafficLights.vhd
+Z6 FC:/Projects/VHDL/Traffic Lights/TrafficLights.vhd
+l0
+L5
+V^nc;^=D09hG8]`Y9W2JhI3
+!s100 le;8MN@nI4FUIQeVnDMji1
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1728249338
+!i10b 1
+Z9 !s108 1728249338.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Projects/VHDL/Traffic Lights/TrafficLights.vhd|
+Z11 !s107 C:/Projects/VHDL/Traffic Lights/TrafficLights.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Artl
+R1
+R2
+R3
+Z14 DEx4 work 13 trafficlights 0 22 ^nc;^=D09hG8]`Y9W2JhI3
+l29
+L19
+VW_Bj_[E[EgUjYHLj^VOf=2
+!s100 RJSLEbm169`SgQQl[A<GS1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Etrafficlightstb
+Z15 w1728249328
+R1
+R2
+R3
+R4
+Z16 8C:/Projects/VHDL/Traffic Lights/TrafficLightsTb.vhd
+Z17 FC:/Projects/VHDL/Traffic Lights/TrafficLightsTb.vhd
+l0
+L5
+VkX8^DbAgbPRKVfgS3RIMe2
+!s100 X>B=E;QhfJBonLEba[OGS3
+R7
+32
+Z18 !s110 1728249342
+!i10b 1
+Z19 !s108 1728249342.000000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Projects/VHDL/Traffic Lights/TrafficLightsTb.vhd|
+Z21 !s107 C:/Projects/VHDL/Traffic Lights/TrafficLightsTb.vhd|
+!i113 1
+R12
+R13
+Asim
+R14
+R1
+R2
+R3
+Z22 DEx4 work 15 trafficlightstb 0 22 kX8^DbAgbPRKVfgS3RIMe2
+l22
+L8
+VgXfccS=5=PJaT^dM20CE73
+!s100 7_6Ai2OP;;dZ;:K<<V3K>1
+R7
+32
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 1
+R12
+R13
